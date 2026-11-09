@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+qwen-fin-lora/
+final_adapter/
+.ipynb_checkpoints/
